@@ -1,0 +1,612 @@
+[
+    {
+        "question": "One of the first electronic computers, located in Philadelphia, occupied 167 square metres, weighed 27 tons and consumed 150kW of electricity. What was it called?",
+        "answer": "ENIAC",
+        "explanation": "ENIAC was developed and built by the U.S. Army for the purpose of calculating ballistic firing tables by emulating electronically a hand-operated mechanical calculator.\nIt used a 10-digit decimal system rather than the binary system used by modern computers. It could not store programs, and conditional branching, a basic function of all modern computers, involved clumsy manual programming using wires and plugs.\nAn amusing but false rumour at the time was that the lights in Philadelphia would dim whenever the behemoth was turned on. Only one ENIAC was ever built, and in 1955 it was put out of action by a lightning strike."
+    },
+    {
+        "question": "Which British mathematician and inventor, known as the 'Father of the Computer', designed a mechanical computer called the Analytical Engine which was an early forerunner of the computer we know today?",
+        "answer": "Charles Babbage",
+        "explanation": "Charles Babbage (1791-1871) had spent some years working on another project which he had called the Difference Engine, a type of mechanical calculator, although this venture never came fully to fruition. Undeterred, he started work on designing what became known as the Analytical Engine, a machine which used punched cards to input data, and became the forerunner of early computers. Unfortunately, due to funding and other problems, he was never able to see the first computers built from his designs, but his early pioneering work in the field led to him being known as the 'Father of the Computer'."
+    },
+    {
+        "question": "What is the conversion of the base-2 number, 00000111, into base-10?",
+        "answer": "7",
+        "explanation": "Base 2 is often referred to as the \"binary number system.\" Computer hardware makes computations based on two states, off and on, or zero and one. Each column in a binary number is a power of 2. The rightmost digit is 1. The next rightmost digit is 2 and the third digit from the right is 4. Adding these numbers together gives us the result, 7."
+    },
+    {
+        "question": "Which general term refers to all kinds of harmful software, including viruses, worms, trojan horses, and spyware?",
+        "answer": "Malware",
+        "explanation": "Malware is a shortened form of \"malicious software.\""
+    },
+    {
+        "question": "The CPU controls all of a computer's functions. It acts as the brain of the computer. What does CPU stand for?",
+        "answer": "Central Processing Unit",
+        "explanation": "The CPU is a very important component of the computer. It acts as the brain of the computer and processes all of its information. The faster the CPU the faster it can process information. Some computers contain multiple CPU's, making them faster and capable of processing large amounts of information at one time. The speed of a CPU is measured in Hertz (Hz), today typically on a scale of Gigahertz (billions of Hertz). As computers become faster they will need more efficient CPUs that can handle large amounts of information at once."
+    },
+    {
+        "question": "The 'Caesar Cipher' is also known as what?",
+        "answer": "Rot3",
+        "explanation": "Caesar used a rotate-by-three cipher to communicate with his military. Each letter in a message is rotated left around the alphabet three places, so that D would become A, P would become M, and A would become X. This method was effective because most people in that age were illiterate, and those who were not had not yet devised cryptanalysis (methods for breaking codes)."
+    },
+    {
+        "question": "What does ICMP stand for?",
+        "answer": "Internet Control Message Protocol",
+        "explanation": "ICMP Packets are used to send control messages including errors."
+    },
+    {
+        "question": "What are the words of the acronym COBOL?",
+        "answer": "COmmon Business Oriented Language",
+        "explanation": "COBOL has been around in various forms since 1959, but was standardized in the late 1960s and became the most commonly used programming language on legacy mainframe computers. Grace Hopper is known as the mother of COBOL."
+    },
+    {
+        "question": "With respect to computer science principles, what is the term used for a reasonably detailed sequence of steps designed to solve a problem or perform a task?",
+        "answer": "Algorithm",
+        "explanation": "Basically, an algorithm is a detailed method for arriving at a solution for a given problem. There are many algorithms for accomplishing seemingly fundamental tasks, such as sorting numbers. Algorithms are often represented in what is known as pseudocode."
+    },
+    {
+        "question": "Who laid out the basic concept of a modern computer as a computing machine that uses algorithms to produce results? His name is attached to a theoretical machine in many thought experiments.",
+        "answer": "Alan Turing",
+        "explanation": "Alan Turing played a significant role in designing machines to break the German enigma code at Bletchley Park during World War II."
+    },
+    {
+        "question": "1991 saw the 'Tequila' virus outbreak. It was the first virus that could change its signature (binary pattern) with each new replication in an attempt to escape detection from antivirus software. What's the term for this type of virus?",
+        "answer": "Polymorphic",
+        "explanation": "Scanning for known viruses was relatively easy, as the scanners looked for certain byte patterns in executable files. Polymorphic viruses encode each replication with a different encryption routine making them near impossible to locate using this method. Antivirus companies had to get smarter and began to use algorithms to find the core viruses."
+    },
+    {
+        "question": "What does SSL stand for?",
+        "answer": "Secure Socket Layer",
+        "explanation": "A protocol developed by Netscape to allow secure connections over the net."
+    },
+    {
+        "question": "Which woman is considered by many to be the world's first computer programmer?",
+        "answer": "Ada Lovelace",
+        "explanation": "Augusta Ada Byron, the countess of Lovelace, worked extensively with Charles Babbage and his analytical engine. She published works which provided a foundation for computer programming. Among her published works is the following quote, \"We may say most aptly that the analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.\""
+    },
+    {
+        "question": "Microsoft is a corporation that today is very successful. During its early years Microsoft competed with other companies that were already well known to create the best GUI for home use. What is the name of the series of operating systems created by Microsoft?",
+        "answer": "Windows",
+        "explanation": "An operating system instructs a computer how to operate. Microsoft created their GUI (Graphical User Interface) operating system later then some other companies, including Apple. Since the idea of a home operating system was not widely accepted at the time, the demand to create one and get many people to use it was high. Microsoft had to play catch up in order to become successful. The first few versions of Windows did not sell well; the first version of Windows that did was Windows 3.0. Today, Windows is one of the most widely used operating systems. Microsoft periodically releases new versions of Windows."
+    },
+    {
+        "question": "Several components are assembled on a piece of electric circuitry. What is the specific name of this circuit board when it has several components pre-installed upon it?",
+        "answer": "Motherboard",
+        "explanation": "The motherboard is the circuitry on which the processor, the memory and other components are assembled. Most motherboards come with sound channels, controllers, and other devices pre-installed."
+    },
+    {
+        "question": "\"LET A$=B$\" is valid syntax for which computer programming language?",
+        "answer": "BASIC",
+        "explanation": "The Beginners' All-Purpose Symbolic Instruction Code (BASIC) assigns values to variables with the \"LET\" statement. Experienced BASIC programmers know, however, that one can omit \"LET\" and write the above statement as \"A$=B$\"."
+    },
+    {
+        "question": "What is it called when cybercriminals methodically try logging in to your account using every possible combination of characters until they get the correct password?",
+        "answer": "Brute force attack",
+        "explanation": "It is called a brute force attack because of the enormity of the job. It is impossible to do manually, so hackers create specialized tools that process the checks for passwords millions of times per second. Longer passwords are recommended because shorter passwords mean that the brute force attack will be quicker."
+    },
+    {
+        "question": "What are the words of the acronym USB?",
+        "answer": "Universal Serial Bus",
+        "explanation": "USB was originally released in 1996 and has become a standard communications port on a variety of devices. Prior to the introduction of the USB standard, most devices had proprietary interfaces, requiring separate cables and connections for each device. By 2019, there were three generations of USB specifications: 1.x, 2.x and 3.x."
+    },
+    {
+        "question": "You'll also need memory inside your computer. Which type of memory stores data only for the time your computer is turned on, but loses the data at a power break?",
+        "answer": "RAM",
+        "explanation": "RAM is the abbreviation for Random Access Memory. It is used as a temporary data storage, but the contents will be lost as soon as you turn off your computer."
+    },
+    {
+        "question": "Whose law observes that the number of transistors in integrated circuits, and hence computing power, double every two years?",
+        "answer": "Gordon Moore",
+        "explanation": "It isn't your imagination! He predicted that the trend would continue for at least 10 years in 1965. It is still holding true almost 50 years later. Gordon Moore was co-founder of Intel Corporation."
+    },
+    {
+        "question": "The following joke is based on which computer programming language? \"GOD is REAL, unless declared INTEGER.\"",
+        "answer": "FORTRAN",
+        "explanation": "Unlike the languages C or COBOL, FORTRAN does not require the programmer to declare all variables used in the program. If a variable is undeclared in FORTRAN, then it is assigned a default data type depending on the first letter of the variable name.\nVariables beginning with I, J, K, L, M or N are of type INTEGER by default. All others are REAL by default. So, GOD is a REAL number variable unless the programmer declares it as an INTEGER in the program."
+    },
+    {
+        "question": "This self-replicating virus takes control of features on your computer that can transport files or information automatically. Most commonly they send out copies of themselves using your email address book. They can also open a backdoor into your computer for spammers and hackers. What's the generic term for this type of virus?",
+        "answer": "Worm",
+        "explanation": "In this sinister world of deceitful computer advertising, spammers pay programmers for the creation of worms to give them backdoor access to your computer and often a list of accurate IP addresses. Worms attacking email address books can spread through the world like wild fire, crashing even the most secure servers. The name 'worm' appeared in the 1970 movie 'Shockwave Rider' to describe a program that propagates itself through a computer network."
+    },
+    {
+        "question": "For which product might you create a \"schema?\"",
+        "answer": "database",
+        "explanation": "The outline of the entries that make up a database is its \"schema.\" Often it's more than just an outline, it's the definition of all relationships and data entry formats."
+    },
+    {
+        "question": "Most people know that HTTP stands for Hyptertext Transfer Protocol. But do you know what the \"S\" stands for in HTTPS?",
+        "answer": "Secure",
+        "explanation": "HTTPS is used for secure transactions on the Internet and uses TLS (Transport Layer Security) or its predecessor SSL (Secure Socket Layer). Two more acronyms for you!"
+    },
+    {
+        "question": "If you are interested in a venture into programming, you may consider downloading an implementation of JDK. What does JDK represent?",
+        "answer": "Java Development Kit",
+        "explanation": "JDK or the Java Development Kit was originally released by Sun Microsystems in 1994. If you are interested, you may download the Java Standard Edition Development Kit. It can be a great introduction to computer programming."
+    },
+    {
+        "question": "What is the binary equivalent of 29?",
+        "answer": "11101",
+        "explanation": "Computers use the digits of the binary numeric system when it comes to computer programming. The binary numeric system is a combination of 0s and 1s that represents natural numbers. Numbers are translated into a binary code by using the pattern 1, 2, 4, 8, etc (the pattern reads the other way around). Now bit 0 and bit 1 determines which of these numbers add up to a certain number. Since bit 0 means that the circuit is off, then the number(s) that correspond to bit 0 is not used. Since bit 1 indicates that the circuit is on, and then the number(s) that correspond to bit 1 is used. Now the question is to find the binary equivalent to the number 9. The necessary pattern to use is 16, 8, 4, 2, and 1 considering that the number is less than 32. The binary equivalent to 29 is 11101 because 16, 8, 4, and 1 are used to add up to 29, and 2 isn't."
+    },
+    {
+        "question": "This sometimes malicious, irritating virus appears disguised as a gift, offer or update, with the sole intention to deceive you into approving its install. When the victim accepts the gift, a program is installed on your PC, which can then attack your files or alter configurations. Spyware falls under the banner of this pest. What's the generic term for this virus?",
+        "answer": "Trojan",
+        "explanation": "Just like the Trojan Horse at Troy, things are not what they seem. New breeds of Trojans are extremely annoying and dangerous. They hijack your browser, bed themselves in your system memory and are near impossible to get rid of without a complete reformat. The devastating trojan 'My Doom' in 2004 (delivered via worm) bought many servers to a stand still. File sharing programs such as Kazaa are common spreading grounds for Trojans, in fact you agree to accept their own spyware when you install their software, and sweeping out their Trojans will render the PTP software useless."
+    },
+    {
+        "question": "What is a MAC?",
+        "answer": "Media Access Control",
+        "explanation": "MAC is short for Media Access Control address, an address unique to every piece of network hardware."
+    },
+    {
+        "question": "Reputed to have invented the programming language COBOL, Grace Hopper was extremely influential in its development and in promoting its widespread use. She is said, incorrectly, to have invented what common computing term?",
+        "answer": "Bug",
+        "explanation": "Contrary to popular myth, Grace Hopper did not coin the term \"bug\", which had been in use for many years, but she did help to popularise its use.\nWhile she was working for the US Navy in 1947, a moth was found stuck in a computer relay causing it to malfunction. The fix, to remove the offending creature, was known as \"debugging\".\nLikewise, Grace Hopper did not invent the programming language COBOL, but she certainly helped, while working as a technical consultant to the \"Conference on Data Systems Languages\" which developed COBOL in 1959. COBOL was partly based on her earlier work on programming languages and a compiler. For this reason she is often called \"the grandmother of COBOL\".\nShe was sometimes referred to as \"Amazing Grace\". The U.S. Navy Arleigh Burke-class guided-missile destroyer USS Hopper was named for her, as was the Cray XE6 \"Hopper\" supercomputer at NERSC."
+    },
+    {
+        "question": "Which network operating system is Solaris a version of?",
+        "answer": "UNIX",
+        "explanation": "Solaris is a version of Unix develpoed by Sun Microsystems. The things Solaris deals with are e-commerce, multithreading, and symmetric multiprocessing."
+    },
+    {
+        "question": "What are the words of the acronym HDMI?",
+        "answer": "High Definition Multimedia Interface",
+        "explanation": "HDMI specification was first used in consumer TVs in 2004. HDMI is a digital interface that has replaced audio video standards. While there used to be a need for several cords to connect to a TV (at least one for video and usually two or more for audio), HDMI allows both digital video and audio to be transmitted through the use of a single connection."
+    },
+    {
+        "question": "The Stuxnet worm, discovered in June 2010, primarily attacked computer systems in which country?",
+        "answer": "Iran",
+        "explanation": "It is widely speculated that Stuxnet was created by the governments of the United States and Israel, however there is no proof of this theory."
+    },
+    {
+        "question": "A group of two or more computers that are connected to each other and are able to send and receive data is called a what?",
+        "answer": "Network",
+        "explanation": "Networks range in their size and complexity. They range from small home and large business networks to the Internet. There must be some way to connect network devices together. The type of medium used depends on the network. If you are just connecting two devices you should probably use a simple cable, known also as \"peer to peer networking\". Other ways to connect devices include Infrared, Bluetooth, and Wi-Fi. Make sure you know which connection would work best for your devices and users before setting up a network."
+    },
+    {
+        "question": "I told the computer salesman that besides saving files to the hard drive, I wanted to save them to a device that I could keep in my desk drawer. Considering that I bought my computer back in the early 1990s, what device did the salesman recommend I purchase?",
+        "answer": "Floppy disk",
+        "explanation": "Back in the early days of personal computers, floppy disks truly were somewhat floppy - eight square inches of magnetic film with a soft plastic cover. More rigid diskettes in 5.25-inch and 3.5-inch sizes came later but the \"floppy\" name stuck."
+    },
+    {
+        "question": "What is the word 'pixel' short for?",
+        "answer": "picture element",
+        "explanation": "A pixel is a dot of light that appears on your monitor screen."
+    },
+    {
+        "question": "One of the most significant and enduring facets of computer networking was the development of the WWW. What does \"WWW\" represent?",
+        "answer": "world wide web",
+        "explanation": "The Internet began as a project conceived by the U.S. military called ARPAnet, which stands for Advanced Research Project Agency. Tim Berners-Lee promulgated the idea of a client-server system, in the form of a \"web browser\". Thus began the world wide web. At the very core of this innovation was a new protocol named HTTP, which stands for hypertext transfer protocol."
+    },
+    {
+        "question": "What technology connects a user to the internet through copper telephone lines?",
+        "answer": "DSL",
+        "explanation": "DSL is short for Digital Subscriber Lines. It provides high speed Internet access by transmitting digital data from a DSL modem to the DSL line that's connected to it."
+    },
+    {
+        "question": "Prior to the publication of the 2016 NIST Digital Identity Guidelines, many banking institutions enabled a previously recommended method to ensure that you are logging into your account. Once you have logged into the account an email or an SMS message is sent. What is this type of authentication called?",
+        "answer": "two-factor authentication",
+        "explanation": "The use of two-factor authentication is intended to be a more secure method. Two-factor authentication is intended to use something you know (password) and something you have (the code sent to you on a token, via email, or SMS (short message service)).\nHowever, in the 2016 version of the NIST Digital Identity Guidelines, it was recommended that all SMS messages be eliminated. Some of the reasons include the fact that users change phone numbers and the current level of security of smartphones."
+    },
+    {
+        "question": "What network connects computers across a college building?",
+        "answer": "LAN",
+        "explanation": "LAN is short for Local Area Network. It is a network that connects computers usually in a single building such as a home, agency, or school."
+    },
+    {
+        "question": "What is all that unwanted, unsolicited junk mail in your e-mail inbox called?",
+        "answer": "spam",
+        "explanation": "Real canned Spam: good stuff. Internet spam: bad, bad, bad!"
+    },
+    {
+        "question": "What are the words of the acronym GUI?",
+        "answer": "Graphical User Interface",
+        "explanation": "Pronounced \"gooey\" (as in soft, stretchable, sticky candy), GUI refers to any user interface that uses graphics to interact and has largely replaced command line interfaces (CLIs). We commonly think of Apple Macintosh as one of the first computers to successfully implement the use of a GUI as well as subsequent Windows operating systems, although the Xerox Star 8010 workstation is generally credited as being the first commercial GUI."
+    },
+    {
+        "question": "Computers contain several hardware components. But even if you have assembled the best hardware components for your design, you'll also need something else. What is the first and most crucial software to be installed on your computer?",
+        "answer": "Operating system",
+        "explanation": "Your computer won't function without an operating system. Internet browsers, antivirus programs, office applications, games... can only be used on a computer if the appropriate operating system is installed."
+    },
+    {
+        "question": "What does DES stand for?",
+        "answer": "Data Encryption Standard",
+        "explanation": "Data Encryption Standard - A common form of encryption, which is limited to 56 bits out of North America."
+    },
+    {
+        "question": "'WYSIWYG' is a great little computer word. But what does it stand for?",
+        "answer": "What You See Is What You Get",
+        "explanation": "An acronym that is usually used to refer to word processing where the file you are working on as seen on the screen will be the same when it is printed out."
+    },
+    {
+        "question": "What is a GPU?",
+        "answer": "Graphics Processing Unit",
+        "explanation": "It is a chip dedicated to performing 3D calculations."
+    },
+    {
+        "question": "What is the name of a function associated to a class, with only a signature and no implementation body?",
+        "answer": "Abstract Method",
+        "explanation": "An abstract method is one with only a signature and no implementation body. It is often used to specify that a subclass must provide an implementation of the method. Abstract methods are used to specify interfaces in some programming languages."
+    },
+    {
+        "question": "What is he process of removing physical, spatial, or temporal details or attributes in the study of objects or systems to focus attention on details of greater importance? It is similar in nature to the process of generalization.",
+        "answer": "Abstraction",
+        "explanation": "Abstraction, in general, is a fundamental concept in computer science and software development. The process of abstraction can also be referred to as modeling and is closely related to the concepts of theory and design. Models can also be considered types of abstractions per their generalization of aspects of reality."
+    },
+    {
+        "question": "In database management, what is a function where the values of multiple rows are grouped together to form a single summary value?",
+        "answer": "Aggregate function",
+        "explanation": "Common aggregate functions include: Average, Count, Maximum, Median, Minimum, Mode, Range, Sum."
+    },
+    {
+        "question": "What is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customers?",
+        "answer": "Agile software development",
+        "explanation": "It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change."
+    },
+    {
+        "question": "What is a data structure consisting of a collection of elements, each identified by one index?",
+        "answer": "Array",
+        "explanation": "An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula. The simplest type of data structure is a linear array, also called a one-dimensional array."
+    },
+    {
+        "question": "How do you call tangible by-products produced during the development of software?",
+        "answer": "Artifacts",
+        "explanation": "Some artifacts (e.g. use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements, and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself\u2014such as project plans, business cases, and risk assessments."
+    },
+    {
+        "question": "What is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals?",
+        "answer": "Artificial Intelligence",
+        "explanation": "In computer science, AI research is defined as the study of \"intelligent agents\": devices capable of perceiving their environment and taking actions that maximize the chance of successfully achieving their goals. Colloquially, the term \"artificial intelligence\" is applied when a machine mimics \"cognitive\" functions that humans associate with other human minds, such as \"learning\" and \"problem solving\"."
+    },
+    {
+        "question": "What does the ASCII acronym represent?",
+        "answer": "American Standard Code for Information Interchange.",
+        "explanation": "ASCII is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices."
+    },
+    {
+        "question": "In computer programming, a statement that a predicate (Boolean-valued function, i.e. a true\u2013false expression) is always true at that point in code execution.",
+        "answer": "Assertion",
+        "explanation": "It can help a programmer read the code, help a compiler compile it, or help the program detect its own defects."
+    },
+    {
+        "question": "The maximum rate of data transfer across a given path.",
+        "answer": "Bandwidth",
+        "explanation": "Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth."
+    },
+    {
+        "question": "A formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available.",
+        "answer": "Bayesian programming",
+        "explanation": "Edwin T. Jaynes proposed that probability could be considered as an alternative and an extension of logic for rational reasoning with incomplete and uncertain information.\nIn his founding book Probability Theory: The Logic of Science[1] he developed this theory and proposed what he called \u201cthe robot,\u201d which was not a physical device, but an inference engine to automate probabilistic reasoning\u2014a kind of Prolog for probability instead of logic. Bayesian programming[2] is a formal and concrete implementation of this \"robot\"."
+    },
+    {
+        "question": "The act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.",
+        "answer": "Benchmark",
+        "explanation": "The term benchmark is also commonly utilized for the purposes of elaborately designed benchmarking programs themselves."
+    },
+    {
+        "question": "A term used to refer to data sets that are too large or complex for traditional data-processing application software to adequately deal with.",
+        "answer": "Big Data",
+        "explanation": "Big data challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy and data source. Big data was originally associated with three key concepts: volume, variety, and velocity. When we handle big data, we may not sample but simply observe and track what happens. Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value."
+    },
+    {
+        "question": "A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.",
+        "answer": "big O notation",
+        "explanation": "It is a member of a family of notations invented by Paul Bachmann, Edmund Landau, and others, collectively called Bachmann\u2013Landau notation or asymptotic notation."
+    },
+    {
+        "question": "In mathematics and digital electronics, a number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically 0 (zero) and 1 (one).",
+        "answer": "Binary number",
+        "explanation": "The base-2 numeral system is a positional notation with a radix of 2. Each digit is referred to as a bit. Because of its straightforward implementation in digital electronic circuitry using logic gates, the binary system is used by almost all modern computers and computer-based devices."
+    },
+    {
+        "question": "A search algorithm that finds the position of a target value within a sorted array.",
+        "answer": "Binary search",
+        "explanation": "Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array."
+    },
+    {
+        "question": "A tree data structure in which each node has at most two children, which are referred to as the left child and the right child.",
+        "answer": "Binary tree",
+        "explanation": "A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set.[27] Some authors allow the binary tree to be the empty set as well."
+    },
+    {
+        "question": "An interdisciplinary field that combines biology, computer science, information engineering, mathematics, and statistics to develop methods and software tools for analyzing and interpreting biological data.",
+        "answer": "bioinformatics",
+        "explanation": "Bioinformatics is widely used for in silico analyses of biological queries using mathematical and statistical techniques."
+    },
+    {
+        "question": "A basic unit of information used in computing and digital communications.",
+        "answer": "Bit",
+        "explanation": "A portmanteau of binary digit. A binary digit can have one of two possible values, and may be physically represented with a two-state device. These state values are most commonly represented as either a 0 or 1."
+    },
+    {
+        "question": "In telecommunications and computing, the number of bits that are conveyed or processed per unit of time.",
+        "answer": "Bit rate",
+        "explanation": "The bit rate is quantified using the bits per second unit (symbol: \"bit/s\"), often in conjunction with an SI prefix such as \"kilo\" (1 kbit/s = 1,000 bit/s), \"mega\" (1 Mbit/s = 1,000 kbit/s), \"giga\" (1 Gbit/s = 1,000 Mbit/s) or \"tera\" (1 Tbit/s = 1000 Gbit/s)."
+    },
+    {
+        "question": "In computing, a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned in a list of prohibited elements. Those items on the list are denied access.",
+        "answer": "Blacklist",
+        "explanation": "The opposite is a whitelist, which means only items on the list are allowed through whatever gate is being used while all other elements are blocked. A greylist contains items that are temporarily blocked (or temporarily allowed) until an additional step is performed."
+    },
+    {
+        "question": "A unit of digital information that most commonly consists of eight bits, representing a binary number.",
+        "answer": "Byte",
+        "explanation": "Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures."
+    },
+    {
+        "question": "The procedures implemented in starting up a computer or computer appliance until it can be used.",
+        "answer": "Booting",
+        "explanation": "After the power is switched on, the computer is relatively dumb and can read only part of its storage called read-only memory. There, a small program is stored called firmware. It does power-on self-tests and, most importantly, allows access to other types of memory like a hard disk and main memory. The firmware loads bigger programs into the computer's main memory and runs it."
+    },
+    {
+        "question": "Any executable code that is passed as an argument to other code that is expected to execute the argument at a given time. ",
+        "answer": "Callback",
+        "explanation": "This execution may be immediate, as in a synchronous callback, or it might happen at a later time, as in an asynchronous callback."
+    },
+    {
+        "question": "A unit of information that roughly corresponds to a grapheme, grapheme-like unit, or symbol, such as in an alphabet or syllabary in the written form of a natural language.",
+        "answer": "Character",
+        "explanation": "Examples of characters include letters, numerical digits, common punctuation marks (such as \".\" or \"-\"), and whitespace. The concept also includes control characters, which do not correspond to visible symbols but rather to instructions to format or process the text. Examples of control characters include carriage return or tab, as well as instructions to printers or other devices that display or otherwise process text."
+    },
+    {
+        "question": "In cryptography, an algorithm for performing encryption or decryption\u2014a series of well-defined steps that can be followed as a procedure.",
+        "answer": "Cipher",
+        "explanation": "The operation of a cipher usually depends on a piece of auxiliary information, called a key (or, in traditional NSA parlance, a cryptovariable). The encrypting procedure is varied depending on the key, which changes the detailed operation of the algorithm. A key must be selected before using a cipher to encrypt a message. Without knowledge of the key, it should be extremely difficult, if not impossible, to decrypt the resulting ciphertext into readable plaintext.\nMost modern ciphers can be categorized in several ways:\n- By whether they work on blocks of symbols usually of a fixed size (block ciphers), or on a continuous stream of symbols (stream ciphers).\n- By whether the same key is used for both encryption and decryption (symmetric key algorithms), or if a different key is used for each (asymmetric key algorithms). If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality."
+    },
+    {
+        "question": "In object-oriented programming, an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods).",
+        "answer": "Class",
+        "explanation": "In many languages, the class name is used as the name for the class (the template itself), the name for the default constructor of the class (a subroutine that creates objects), and as the type of objects generated by instantiating the class; these distinct concepts are easily conflated."
+    },
+    {
+        "question": "A piece of computer hardware or software that accesses a service made available by a server.",
+        "answer": "Client",
+        "explanation": "The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network. The term applies to the role that programs or devices play in the client\u2013server model."
+    },
+    {
+        "question": "A technique for implementing lexically scoped name binding in a language with first-class functions.",
+        "answer": "Closure",
+        "explanation": "Operationally, a closure is a record storing a function[a] together with an environment."
+    },
+    {
+        "question": "Shared pools of configurable computer system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.",
+        "answer": "Cloud computing",
+        "explanation": "Cloud computing relies on sharing of resources to achieve coherence and economies of scale, similar to a public utility."
+    },
+    {
+        "question": "What does the CSV acronym stand for?",
+        "answer": "Comma-separated values",
+        "explanation": "A delimited text file that uses a comma to separate values. A CSV file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format."
+    },
+    {
+        "question": "A computer program that transforms computer code written in one programming language (the source language) into another programming language (the target language).",
+        "answer": "Compiler",
+        "explanation": "Compilers are a type of translator that support digital devices, primarily computers. The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower-level language (e.g. assembly language, object code, or machine code) to create an executable program."
+    },
+    {
+        "question": "A device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. ",
+        "answer": "Computer",
+        "explanation": "Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks."
+    },
+    {
+        "question": "A set of rules and methods that describe the functionality, organization, and implementation of computer systems.",
+        "answer": "Computer architecture",
+        "explanation": "Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.[57] In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation."
+    },
+    {
+        "question": "An interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos.",
+        "answer": "Computer vision",
+        "explanation": "From the perspective of engineering, it seeks to automate tasks that the human visual system can do."
+    },
+    {
+        "question": "The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome.",
+        "answer": "Concurrency",
+        "explanation": "This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems. In more technical terms, concurrency refers to the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units."
+    },
+    {
+        "question": "A feature of a programming language which performs different computations or actions depending on whether a programmer-specified Boolean condition evaluates to true or false.",
+        "answer": "Conditional statement",
+        "explanation": "Apart from the case of branch predication, this is always achieved by selectively altering the control flow based on some condition."
+    },
+    {
+        "question": " A computer program that runs as a background process, rather than being under the direct control of an interactive user.",
+        "answer": "Daemon",
+        "explanation": "Traditionally, the process names of a daemon end with the letter d, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging facility, and sshd is a daemon that serves incoming SSH connections."
+    },
+    {
+        "question": "An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, both structured and unstructured.",
+        "answer": "Data Science",
+        "explanation": "Data science is a \"concept to unify statistics, data analysis, machine learning and their related methods\" in order to \"understand and analyze actual phenomena\" with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science."
+    },
+    {
+        "question": "A data organization, management, and storage format that enables efficient access and modification.",
+        "answer": "Data structure",
+        "explanation": "More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data."
+    },
+    {
+        "question": "An attribute of data which tells the compiler or interpreter how the programmer intends to use the data.",
+        "answer": "Data type",
+        "explanation": "Most programming languages support common data types of real, integer, and Boolean. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A type of value from which an expression may take its value."
+    },
+    {
+        "question": "The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or the system as a whole.",
+        "answer": "Debugging",
+        "explanation": "Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling."
+    },
+    {
+        "question": "An algorithm design paradigm based on multi-branched recursion.",
+        "answer": "Divide and conquer",
+        "explanation": "A divide-and-conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem."
+    },
+    {
+        "question": "What does the DNS acronym stand for?",
+        "answer": "Domain Name System",
+        "explanation": "The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.\nMost prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985."
+    },
+    {
+        "question": "Written text or illustration that accompanies computer software or is embedded in the source code.",
+        "answer": "Documentation",
+        "explanation": "It either explains how it operates or how to use it, and may mean different things to people in different roles."
+    },
+    {
+        "question": "A family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms.",
+        "answer": "Evolutionary computing",
+        "explanation": "In technical terms, they are a family of population-based trial-and-error problem-solvers with a metaheuristic or stochastic optimization character."
+    },
+    {
+        "question": "Causes a computer to perform indicated tasks according to encoded instructions, as opposed to a data file that must be parsed by a program to be meaningful.",
+        "answer": "Executable",
+        "explanation": "The exact interpretation depends upon the use - while \"instructions\" is traditionally taken to mean machine code instructions for a physical CPU, in some contexts a file containing bytecode or scripting language instructions may also be considered executable."
+    },
+    {
+        "question": "The study of mathematical models of strategic interaction between rational decision-makers.",
+        "answer": "Game theory",
+        "explanation": "It has applications in all fields of social science, as well as in logic and computer science. Originally, it addressed zero-sum games, in which each participant's gains or losses are exactly balanced by those of the other participants. Today, game theory applies to a wide range of behavioral relations, and is now an umbrella term for the science of logical decision making in humans, animals, and computers."
+    },
+    {
+        "question": "In computer programming, a variable with global scope, meaning that it is visible (hence accessible) throughout the program, unless shadowed. ",
+        "answer": "Global variable",
+        "explanation": "The set of all global variables is known as the global environment or global state. In compiled languages, global variables are generally static variables, whose extent (lifetime) is the entire runtime of the program, though in interpreted languages (including command-line interpreters), global variables are generally dynamically allocated when declared, since they are not known ahead of time."
+    },
+    {
+        "question": "In mathematics, the study of graphs, which are mathematical structures used to model pairwise relations between objects.",
+        "answer": "Graph theory",
+        "explanation": "A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically."
+    },
+    {
+        "question": "Any function that can be used to map data of arbitrary size to data of a fixed size. ",
+        "answer": "Hash function",
+        "explanation": "The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. Hash functions are often used in combination with a hash table, a common data structure used in computer software for rapid data lookup. Hash functions accelerate table or database lookup by detecting duplicated records in a large file."
+    },
+    {
+        "question": "A specialized tree-based data structure which is essentially an almost complete tree that satisfies the following property: if P is a parent node of C, then the the value of P is either greater than or equal to the value of C.",
+        "answer": "Heap",
+        "explanation": "The heap is one maximally efficient implementation of an abstract data type called a priority queue, and in fact, priority queues are often referred to as \"heaps\", regardless of how they may be implemented. In a heap, the highest (or lowest) priority element is always stored at the root. However, a heap is not a sorted structure; it can be regarded as being partially ordered. A heap is a useful data structure when it is necessary to repeatedly remove the object with the highest (or lowest) priority."
+    },
+    {
+        "question": "A comparison-based sorting algorithm. that can be thought of as an improved selection sort. The improvement consists of the use of a heap data structure rather than a linear-time search to find the maximum.",
+        "answer": "Heapsort",
+        "explanation": "Like selection sort, it divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element and moving that to the sorted region."
+    },
+    {
+        "question": "What does IDE stand for?",
+        "answer": "Integrated development environment",
+        "explanation": "An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both."
+    },
+    {
+        "question": "A programming paradigm that uses statements that change a program's state.",
+        "answer": "Imperative programming",
+        "explanation": "In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates."
+    },
+    {
+        "question": "In object-oriented programming, the mechanism of basing an object or class upon another object or class, retaining similar implementation.",
+        "answer": "Inheritance",
+        "explanation": "Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes."
+    },
+    {
+        "question": "A simple sorting algorithm that builds the final sorted array (or list) one item at a time.",
+        "answer": "Insertion sort",
+        "explanation": "When people manually sort cards in a bridge hand, most use a method that is similar to insertion sort."
+    },
+    {
+        "question": "The phase in software testing in which individual software modules are combined and tested as a group.",
+        "answer": "Integration testing",
+        "explanation": "It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing."
+    },
+    {
+        "question": "The global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.",
+        "answer": "Internet",
+        "explanation": "It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies."
+    },
+    {
+        "question": "A linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.",
+        "answer": "Linked list",
+        "explanation": "Linked lists are among the simplest and most common data structures. They can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions, though it is not uncommon to implement those data structures directly without using a linked list as the basis."
+    },
+    {
+        "question": "A computer utility program that takes one or more object files generated by a compiler or an assembler and combines them into a single executable file, library file, or another 'object' file. ",
+        "answer": "Linker",
+        "explanation": "Static linking is the result of the linker copying all library routines used in the program into the executable image. Many operating system environments also allow dynamic linking, deferring the resolution of some undefined symbols until a program is run."
+    },
+    {
+        "question": "The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence.",
+        "answer": "Machine learning",
+        "explanation": "Machine learning algorithms build a mathematical model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to perform the task."
+    },
+    {
+        "question": "A subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.",
+        "answer": "Natural language processing",
+        "explanation": "Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation."
+    },
+    {
+        "question": "A branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions.",
+        "answer": "Number theory",
+        "explanation": "Carl Friedrich Gauss said, \"Mathematics is the queen of the sciences\u2014and number theory is the queen of mathematics.\""
+    },
+    {
+        "question": "The study of algorithms that use numerical approximation (as opposed to symbolic manipulations).",
+        "answer": "Numerical analysis",
+        "explanation": "The overall goal of the field of numerical analysis is the design and analysis of techniques to give approximate but accurate solutions to hard problems."
+    },
+    {
+        "question": "An agile software development technique in which two programmers work together at one workstation.",
+        "answer": "Pair programming",
+        "explanation": "One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently."
+    },
+    {
+        "question": "In computer programming, a condition or predicate that must always be true just after the execution of some section of code or after an operation in a formal specification.",
+        "answer": "Postcondition",
+        "explanation": "Postconditions are sometimes tested using assertions within the code itself. Often, postconditions are simply included in the documentation of the affected section of code."
+    },
+    {
+        "question": "In computer programming, a condition or predicate that must always be true just prior to the execution of some section of code or before an operation in a formal specification.",
+        "answer": "Precondition",
+        "explanation": "If a precondition is violated, the effect of the section of code becomes undefined and thus may or may not carry out its intended work. Security problems can arise due to incorrect preconditions."
+    },
+    {
+        "question": "A collection in which the entities in the collection are kept in order and the principal (or only) operations on the collection are the addition of entities to the rear terminal position and removal of entities from the front terminal position.",
+        "answer": "Queue",
+        "explanation": "Queues provide services in computer science, transport, and operations research where various entities such as data, objects, persons, or events are stored and held to be processed later. In these contexts, the queue performs the function of a buffer. Another usage of queues is in the implementation of breadth-first search."
+    },
+    {
+        "question": "Occurs when a thing is defined in terms of itself or of its type.",
+        "answer": "Recursion",
+        "explanation": "The most common application of recursion is in mathematics and computer science, where a function being defined is applied within its own definition."
+    },
+    {
+        "question": "A networking device that forwards data packets between computer networks.",
+        "answer": "Router",
+        "explanation": "Routers perform the traffic directing functions on the Internet."
+    },
+    {
+        "question": "The process of translating data structures or object state into a format that can be stored or transmitted and reconstructed later .",
+        "answer": "Serialization",
+        "explanation": "When the resulting series of bits is reread according to the serialization format, it can be used to create a semantically identical clone of the original object. For many complex objects, such as those that make extensive use of references, this process is not straightforward. "
+    },
+    {
+        "question": "Is an abstract data type that can store unique values, without any particular order.",
+        "answer": "Set",
+        "explanation": "It is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set."
+    },
+    {
+        "question": "A reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it.",
+        "answer": "Uniform Resource Locator",
+        "explanation": "A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably."
+    },
+    {
+        "question": "A storage location (identified by a memory address) paired with an associated symbolic name (an identifier),",
+        "answer": "Variable",
+        "explanation": "The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents."
+    },
+    {
+        "question": "An emulation of a computer system.",
+        "answer": "Virtual machine",
+        "explanation": "Virtual machines are based on computer architectures and attempt to provide the same functionality as a physical computer. Their implementations may involve specialized hardware, software, or a combination of both."
+    },
+    {
+        "question": "A family of wireless networking technologies, based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access.",
+        "answer": "Wi-Fi",
+        "explanation": "Wi\u2011Fi is a trademark of the non-profit Wi-Fi Alliance, which restricts the use of the term Wi-Fi Certified to products that successfully complete interoperability certification testing.\n"
+    }
+]
